@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "abc",
+      "lastname": "xyz",
+      "email": "hello@gmail.com"
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "A M",
+      "id": 2
+    },
+    {
+      "firstname": "Shreya",
+      "lastname": "A M",
+      "id": 3
+    },
+    {
+      "firstname": "dscda",
+      "lastname": "casdcd",
+      "id": 4
+    }
+  ]
+}
